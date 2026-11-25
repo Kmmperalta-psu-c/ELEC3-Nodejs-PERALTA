@@ -1,7 +1,7 @@
 # ELEC 3 – Node.js Activities
 
 **Name:** Kristine Mae M. Peralta  
-**Section:** [Your Section]  
+**Section:** IV_BSIT-C  
 **Course:** ELEC 3 – Node.js  
 **Set:** Set 1
 
